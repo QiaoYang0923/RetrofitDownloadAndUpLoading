@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitDownloadAndUploading</string>
+    <string name="uploading">上传</string>
+    <string name="download">下载</string>
+</resources>
